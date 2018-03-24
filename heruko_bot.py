@@ -4,13 +4,14 @@ import tweepy
 import time
 import json
 import random
+import os
 
 
 # Twitter API Keys. Place your keys here.
-api_keyTwitter= os.environ['']
-pi_secretTwitter= os.environ['']
-access_tokenTwitter= os.environ['']
-access_tokensecretTwitter= os.environ['']
+consumer_key= os.environ['']
+consumer_secret= os.environ['']
+access_token= os.environ['']
+access_token_secret= os.environ['']
 
 
 
