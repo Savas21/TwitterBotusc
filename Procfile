@@ -1,1 +1,1 @@
-worker:python heruko_bot.py
+worker: python heruko_bot.py
